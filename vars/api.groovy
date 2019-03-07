@@ -1,9 +1,5 @@
 #!/usr/bin/env groovy
 
-def print(name) {
-  echo "Hello, ${name}."
-}
-
 def build() {
   echo "Build"
 }
